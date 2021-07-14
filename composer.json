@@ -3,7 +3,6 @@
     "description": "Just a simple checker of UPC Codes",
     "type": "library",
     "license": "AGPL-3.0-or-later",
-    "version": "1.0.0",
     "require": {
         "php": ">=7.0.0"
     },
