@@ -30,4 +30,3 @@ $upc->setBarcode(substr($barcode, 1, -1));
 $upc->addZeroCheckSum();
 echo $upc->getBarcode();
 ```
-
