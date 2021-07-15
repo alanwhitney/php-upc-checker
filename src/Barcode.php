@@ -39,4 +39,15 @@ class Barcode {
 	public function getBarcode() { 
 		return $this->barcode;
 	}
+
+	public function isValid() { 
+		return true;
+	}
+
+	public function addCheckSum() { 
+	}
+
+	public function addZeroCheckSum() { 
+	}
+
 }
